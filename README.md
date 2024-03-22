@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project performs exploratory data analysis and customer segmentation using [Customer Personality Analysis data](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). This project first carried out Exploratory Data Analysis, including data cleaning and univariate and multivariate analysis. Then, segment customers using a machine learning algorithm, namely K-Means. Finally, data profiling is done to get behaviour from each customer segment and other insights.
+This project performs exploratory data analysis and customer segmentation using [Customer Personality Analysis data](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). This project first carried out Exploratory Data Analysis, including data cleaning and univariate and multivariate analysis. Then, segment customers using a machine learning algorithm, namely K-Means. Finally, data profiling is done to get behavior from each customer segment and other insights.
 
 <div align="center">
   <a href="">

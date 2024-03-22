@@ -24,7 +24,6 @@
     <li><a href="#business-values">Business Values</a></li>
     <li><a href="#how-to-works">How to Works</a></li>
     <li><a href="#dataset">Dataset</a></li>
-    <li><a href="#next-step">Next Step</a></li>
     <li><a href="#license">License</a></li>
   </ol>
   </p>
